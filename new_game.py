@@ -1,5 +1,5 @@
-
-# -------------------------------------------------------------------------------------------------- #
+# coding=utf-8
+# # ------------------------------------------------------------------------------------------------- #
 # This code can run 2 different models of Reinforcement Learning:
 # SRL (DSRL), SRL+CS(DSRL_object_near) and some other variations of SRL
 # The setting for each run can be set at the end of the code

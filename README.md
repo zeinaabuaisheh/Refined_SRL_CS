@@ -14,7 +14,7 @@ This code is a refined version of Symbolic Reinforcement Learning with Common Se
 
 ### Run
 To run the code
->run
+>python new_game.py
 
 ### Environments
 
